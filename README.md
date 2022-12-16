@@ -1,7 +1,7 @@
 # Dia landing page
 ## Overview
 
-Dia landing page implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
+[Dia landing page](https://elinabahirova.github.io/dia-landing/) implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35).
 
 Page adapted to the following screens:
 - Large screens 2560px
